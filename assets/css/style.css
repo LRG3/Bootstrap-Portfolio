@@ -78,8 +78,8 @@ ul li a{
 img {
     float: left;
     height: 20em;
-    margin-right: 10px;
-    margin-left: 5px;
+    margin-right: 0px;
+    margin-left: 0px;
 }
 
 p {
